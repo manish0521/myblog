@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name":"Manish Singh",
+    "occupation":"Junior Developer",
+    "description":"Highly Motivated and Pationate at what I do.",
+    "image":"profilepic.jpg",
+    "bio":"Multi-lingual Technical Professional (Nepalese, Hindi, Urdu) | Retired U.S. Army Veteran leveraging a background of driving strategy, direction, and oversight for end-to-end organizational development ranging across public sector and private sector environments, with a particular focus on ensuring quality standards, compliance, policy and procedure adherence. Maintained and oversaw program management across various process, policy, and operational improvements, specializing in implementing and improving global process improvements within the organization. Possess extensive knowledge in composite risk management, training & development, and process improvement. Career supported by specialized military leadership trainings, certifications, Bachelor of Science in Chemistry/Mathematics, Masters in Public Administration with a concentration in Public Policy, and Full-Stack developer",
+    "contactmessage":"Get in touch!",
+    "email": "mangosingh21@gmail.com",
+    "address":{
+      "street":"3755 77th Street",
+      "city":"NYC",
+      "state":"NY",
+      "zip": "11372"
+    },
+    "website": "http://",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/manish0521",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/",
+        "className":"fa fa-linkedin"
+      },
+     
+      {
+        "name":"github",
+        "url":"http://github.com/manish0521",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Baruch College - CUNY",
+        "degree":"Masters in Public Administration",
+        "graduated":"Dec 2018",
+        "description":"Graduated with concentration in Healthcare and Public Policy."
+      },
+      {
+        "school":"McNeese State University",
+        "degree":"BSc in Chemistry",
+        "graduated":"Dec 2013",
+        "description":"Graduated with concentration in Biochemistry and Mathematics."
+      }
+    ],
+    "work":[
+        {
+        "company":"Code Immersives, NYC",
+        "title":"Junior Web Developer",
+        "years":"Jan 2019 - Present",
+        "description":"Worked as junior web page developer."
+      },
+      {
+        "company":"UNITED STATES OF ARMY CORP OF ENGINEERS (New York, NY)",
+        "title":"Economist ",
+        "years":"Feb 2018 - Jan 2019",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"BootStrap",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"JQuery",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"NYNCC",
+        "category":"Sports Club Website",
+        "image":"../../images/NYNCC-logos.jpg",
+        "url":"https://testnyncc.herokuapp.com/"
+      },
+     
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website ",
+        "image":"../../images/ResumeWeb.png",
+        "url":""
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"A fast Learner",
+        "user":"Albert Einstein"
+      }
+    ]
+  }
+}
