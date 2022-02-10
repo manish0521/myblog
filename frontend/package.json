@@ -12,7 +12,7 @@
     "cloudinary-react": "^1.2.1",
     "jquery": "^3.4.1",
     "jwt-decode": "^2.2.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-ga": "^2.7.0",
